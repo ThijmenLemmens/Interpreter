@@ -1,0 +1,7 @@
+var thijmen = "hoi";
+
+var nummer = 2132;
+
+var nummerstring = "13421"
+
+println thijmen;
